@@ -1,8 +1,4 @@
-# React + Vite
+# Live Link
+https://site-react-weather.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Vite + React - Google Chrome 25_11_2023 7_55_11 pm](https://github.com/ahmed-frq/react-weather-app/assets/99341535/ad75606b-edcb-447e-b899-acff35519281)
